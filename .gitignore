@@ -49,3 +49,119 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+# -----------------------------
+# OS-specific Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyd
+*.pyo
+*.log
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+env_old/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Matplotlib Cache
+.matplotlib/
+
+# PyInstaller
+*.spec
+
+# -----------------------------
+# C / C++ / Arduino
+# -----------------------------
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.a
+*.d
+*.dSYM/
+*.exe
+
+# Arduino Build
+*.ino.*
+*.cpp.*
+.arduino15/
+build/
+
+# -----------------------------
+# ROS / Robotics
+# -----------------------------
+build/
+devel/
+install/
+catkin_ws/build/
+catkin_ws/devel/
+log/
+
+# -----------------------------
+# Logs & Databases
+# -----------------------------
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# -----------------------------
+# Node.js / Web Dev (optional)
+# -----------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
+*.tsbuildinfo
+
+# -----------------------------
+# IDE / Editor Settings
+# -----------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------------
+# Backup and Temp Files
+# -----------------------------
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+*.old
+
+# -----------------------------
+# Environment Variables & Secrets
+# -----------------------------
+.env
+.env.*
+*.key
+*.pem
+*.crt
+
+# -----------------------------
+# Others
+# -----------------------------
+notes.txt
+TODO.md
