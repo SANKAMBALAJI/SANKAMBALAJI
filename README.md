@@ -51,7 +51,6 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: `balajisankam@outlook.com`
 - 🌐 Portfolio (Coming soon): Will Be Updated 
 - 📝 LinkedIn: Will Be Updated 
 
